@@ -2,7 +2,7 @@
 🎓 Student Developer at [Epitech Marseille](https://www.epitech.eu/) | 💻 Full Stack Developer  
 
 ## About Me  
-🔭 I'm currently working on [R-Type](#)  
+🔭 I'm currently working on [EIP](#)  
 💬 I'm passionate about learning new technologies and working on impactful projects  
 
 ## 🌟 Skills
